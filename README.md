@@ -54,7 +54,7 @@
 ### Top Public Schools
 - [4/5] Barbara B. Rose Elementary School
 - [4/5] Grove Avenue Elementary School
-- [3/5] Countryside Elementary School
+- [4/5] Countryside Elementary School
 
  
 
