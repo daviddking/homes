@@ -40,7 +40,7 @@
 
 # Barrington
 - Commute: 1 hour, 15 minutes
-- House: Toll brothers or downton abbey
+- House: Toll brothers or Downton Abbey
 - Pros:
     * Also has great schools, on par with Naperville
     * Best housing stock, less expensive than North shore
